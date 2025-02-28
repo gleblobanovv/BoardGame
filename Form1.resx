@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="yellowPeshka.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAHAAAAB6CAYAAABne9ctAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wAAADsABataJCQAAA11JREFUeF7tkVGO5DAIBff+x90LzK7UGvV0T6UT22AehJLqJ7Hhgf98Namp+YB/
+        /4/1bXHqTfjz8W7wiPWm6wdMDD3et0WpNRk93LdFqTMZPdq7BakzFT3YuwWpMxU9GFmMGhPRQx1ZjBoT
+        0UMdWYz8E9EjnVmI/NPQA51ZiNzT0ONctQi5J6GHuWoR8k5CjzJqAfJOQQ8yagFyTkGPMWtyck5ADzFr
+        cnJOQA8xa3LyTUCPsGpi8qWnB1g1MbnS0/KtTEqu5LR4K5OSJzkt3dqE5ElNC7c2ITlS07K9TEaOxLRo
+        L5ORIzEt2tNE6KelBXubCP20tGBvE6Gdlpa7yyRoJ6XF7jIJuklpqbtNgG5KWuhuE6CZkpYZpTiaCWmR
+        UYqjl5CWGK0weulogdEKo5eOFqigKFrJaHEqiqKVjBanoig6yWhpagqik4oWpqYgGqloWaqKoZGIFqWq
+        GPGJaEnqChGfhhakrhCxaWg5WRQhNgktJosixCahxWRRhLgktJRsChCXghaSTQFiUtAyshpMTAJaRFaD
+        2Z+AlpDdQPZ3pwVkN5C93Wn4KgaxtzMNXsUg9namwSsZwL6uNHA1A9jXlQauZgB7utKwVd3Mno40aFU3
+        49+RhqzuRvy70YDV3YhvNxruLm7CtxMNdhc34deJhrqbG/DrQgPdzQ34daGB7qgzPh1okLvqjE8HGuSu
+        OmPfgYa4u47YV6cB7q4jttUpfPvQCdvKFLx96IRdZQrdvuqAXVUK3L7qgE1VCtuyxthUpKAta4xNRQra
+        ssasV6SQ7WcNWa9GAdvPGrJWjcK11zRirRIFa69pxHwlCtWOacB8FQrUjmnAXBUK0865yFwFCtLOuchc
+        BQrSzrvA+G0K0K65wPhtCtCuucDYbWre2jjJ2E1q3No4yfWb1LS1dYLrt6hha+sE125Rs9bHQa7doEat
+        j4Oc36Amra8DnJ+mBq2vA5yfpgatrwN8Pk3F2z1e5PNJKtzu8SLHJ6lou9cLHJ+igu1eL8CnqFgb4wl8
+        ggq1MZ7w+wQVaWP9wO+/VKCN9QO//1KBNt4DXv/QxVbDA17/0MVWwwOef+hSqyXw/EoXWi2Bx1c63Gr6
+        xuMLHWw1fePxhQ62mr7x/EKHWy0B/tqkoR8wOf2Aqfn6+gc20nxMdfOsUwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="greenPeshka.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAHAAAAB5CAYAAADh76WDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wAAADsABataJCQAAAqJJREFUeF7tlVuSUzEMBVkL62GzrDAMBUxlwrmJH7Ks43RX9V+ubak/8u0G1hDQ
+        nGMDfv/549OTOTLgfbzTIxLQnOMCqnj/PBECmnNUQBXt0dMgoDlvF/C3J3FMQBXqypMgoDlHBFSRXnkK
+        BDTHPqCK0+oJENAc64AqSq/uENAc24AqxqjOEPBDZwj4oTOWAVWEWV0h4F9dsQuolh+lIwS80xGrgGrp
+        0bpBwAfdsAmolr1KJwgodIKAF7pgEVAteLUuEPBCF8oHVMvN0gECPtGB0gHVUrOtDgFfWJ2yAdUyd1kZ
+        AjZYmZIB1RJ3WxUCNloVAnZYkXIB1eKqWBECdliRUgHV0qpZDQJ2Wo0yAdWyqloJAg5YiRIB1ZKqWwUC
+        DlqF7QHVclysAAEnrAABJ6zA1oBqKW7uhoCT7mZbQLUMV3dCwAB3siWgWoK7uyBgkLtID6iGP8UdEDDQ
+        HRAw2GxSA6qBTzMbAgabTVpANeypZkLABWaSElANebpZEHCRWSwPqIZ7FzMg4EIzWBpQDfVuroaAi10N
+        ARNcybKAapB3dSUETHAlSwKqId7dVRAwyVWEB1SPxz+ugICJriA0oHo0fjUaAiYbTVhA9VjURkLADUZC
+        wA1GEhJQPRKfGwUBNxnFdED1OGwzAgJuNIKpgOpR2OcsBNzsLMMB1WNwzBkIWMAZCFjEUYYCqgfgnKMQ
+        sIijdAdUl2OMIxCwkCN0BVSXYqy9ELCYvTQHVJfhGnsgYEF7aAqoLsG1tkLAorZCwKK28jKgOhxzbIGA
+        hW3haUB1KOb6CgIW9xWXAdVhuMdnENDAZ8iA6hDc6xUENPEKAhqp+C+g+hBrqCCgkYovAdVHWMtHCGjm
+        I58B1Y+xpvcQ0NB7CGjoPfwHmvnIl4Dgxu32Czp7Z+GCTPCxAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="bluePeshka.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAHAAAAB6CAYAAABne9ctAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wAAADsABataJCQAAAqRJREFUeF7tlUuSEzEQBbkZWw7PncwQwITHvLb1KZXqyZkRuXNLqsqFv93AGgKa
+        c2zA7z9+fnoyRwa8j3d6RAKac1xAFe+fJ0JAc44KqKI9ehoENOftAv72JI4JqEJdeRIENOeIgCrSK0+B
+        gObYB1RxWj0BAppjHVBF6dUdAppjG1DFGNUZAn7oDAE/dMYyoIowqysE/KsrdgHV8qN0hIB3OmIVUC09
+        WjcI+KAbNgHVslfpBAGFThDwQhcsAqoFr9YFAl7oQvmAarlZOkDAJzpQOqBaarbVIeALq1M2oFrmLitD
+        wAYrUzKgWuJuq0LARqtCwA4rUi6gWlwVK0LADitSKqBaWjWrQcBOq1EmoFpWVStBwAErUSKgWlJ1q0DA
+        QauwPaBajosVIOCEFSDghBXYGlAtxc3dEHDS3WwLqJbh6k4IGOBOtgRUS3B3FwQMchfpAdXwp7gDAga6
+        AwIGm01qQDXwaWZDwGCzSQuohj3VTAi4wExSAqohTzcLAi4yi+UB1XDvYgYEXGgGSwOqod7N1RBwsash
+        YIIrWRZQDfKuroSACa5kSUA1xLu7CgImuYrwgOrx+McVEDDRFYQGVI/Gr0ZDwGSjCQuoHovaSAi4wUgI
+        uMFIQgKqR+JzoyDgJqOYDqgeh21GQMCNRjAVUD0K+5yFgJudZTigegyOOQMBCzgDAYs4ylBA9QCccxQC
+        FnGU7oDqcoxxBAIWcoSugOpSjLUXAhazl+aA6jJcYw8ELGgPTQHVJbjWVghY1FYIWNRWXgZUh2OOLRCw
+        sC08DagOxVxfQcDivuIyoDoM9/gMAhr4DBlQHYJ7vYKAJl5BQCMV/wVUH2INFQQ0UvEloPoIa/kIAc18
+        5DOg+jHW9B4CGnoPAQ29h/9AMx/5EhD8IKA1t9sv6zVuvr0kOcIAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="redPeshka.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAG0AAAB9CAYAAACoLu3NAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wAAADsABataJCQAAAqlJREFUeF7tkVGSGyEMBXOQfOb+N9szONls7PI6zx5gJNDD3VX9NwNC/eMCdhDN
+        EKIZsmW0j5+/bu7IdtHug+0ajmiGbBVNBbu6E0QzZJtoKtSju0A0Q94q2qc7sEU0FeeZO0A0Q+yjqTBH
+        ukM0Q6yjqSCtOkM0Q2yjqRC9ukI0QyyjqQCjOkI0Q4hmiF00tfizukG0P7phFU0tPEoniPZPJ2yiqUVH
+        6wLR7nTBIppacJYOEO1BB4gmrE75aGqp2VaHaMLqlI6mFjrLyhDtiZUpG00tcrZVIdoLq1IymlrgKitC
+        tAMrUi6aWtxqq0G0BqtBtEYrUSqaWlYVK0G0RitRJppaVDWrQLQOq1AimlpQVStAtE4rsDyaWkx1V0O0
+        AVezNJpaiIsrIdqgKyHaoCtZFk0tws1VEO2Eq1gSTS3A1RUQ7aQrmB5NPdzd2RAtwNlMjaYevIszIVqQ
+        MyFaoLOYFk09cjdnQbRAZzElmnrgrs6AaMHOID2aetjuZkO0BLNJjaYe9C5mQrQkM0mLph7ybmZBtESz
+        IFqyGaREU8O/qxkQLdkMwqOpwd/daIg2wWhCo6mB8ctIiDbJSMKiqUHxu1EQbaJRhERTA6I2AqJNNgKi
+        TTaC09HUYPjasxBtgWc5FU0NhG2egWiLPMNwNDUI9jkK0RY6ylA0NQCOOQLRFjsC0QrYS3c0dSmesxei
+        FbCXrmjqQoyxB6IVsYfmaOoijLUVohWylaZo6gLMsQWiFbOFw2jqYMz1CKIV9AiiFfSIl9HUgTjHVxCt
+        qK94Gk0dhHN9BtEK+wwZTR2Aa1QQrbiK/6KpH3GtjxDNwEeIZuI936Kpj7GG9xDNxHtu0dSHWMsrRDPy
+        yt9o6gOsKdEMJZqht2ifqA+wlldu0cAHohlCNEOIZsfl8hvEa/bpuyB8jQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Правила игры 🎲
+Цель игры
+Добраться до клетки №100 раньше других игроков.
+
+Подготовка
+В игре участвуют 4 игрока.
+Каждый игрок начинает с клетки №1.
+Очередность ходов определяется автоматически.
+Ход игры
+Игрок нажимает кнопку «Ход», чтобы бросить кости (число от 1 до 12).
+Игрок передвигается на выпавшее количество клеток.
+Если игрок наступает на ловушку, срабатывает её эффект:
+Переход вниз – игрок перемещается назад на 5 клеток.
+Переход вверх – игрок перемещается вперёд на 5 клеток.
+Пропуск хода – игрок пропускает следующий ход.
+Если игрок достигает клетки 100, он побеждает! 🎉
+После каждого хода ход переходит к следующему игроку.
+Дополнительные условия
+Если несколько игроков стоят на одной клетке, клетка окрашивается в серый цвет.
+Если все 4 игрока оказываются на одной клетке, она становится чёрной.
+Информация о текущем игроке отображается в панели справа.
+Конец игры
+Игра завершается, когда кто-то достигает клетки 100. Этот игрок объявляется победителем! 🏆
+
+Удачи в игре! 🚀</value>
+  </data>
+</root>
